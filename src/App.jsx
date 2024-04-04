@@ -66,3 +66,4 @@ export default App;
 // Creating Our First App With Vite: "WorldWise"
 // Routing and Single-Page Applications (SPAs)
 // Styling Options For React Applications
+// Storing State in the URL
