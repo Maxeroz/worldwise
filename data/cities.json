@@ -35,6 +35,30 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Castello de Farfanya",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-04-14T18:28:30.074Z",
+      "notes": "TEST",
+      "position": {
+        "lat": "41.83682786072714",
+        "lng": "0.7250976562500001"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Moscow",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2024-04-14T18:29:14.173Z",
+      "notes": "TEST!@#",
+      "position": {
+        "lat": "55.85064987433714",
+        "lng": "37.74902343750001"
+      },
+      "id": 98443199
     }
   ]
 }
